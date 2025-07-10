@@ -9,8 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashankkY/ExpressJS-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShashankkY/ExpressJS-App/issues"
+  },
+  "homepage": "https://github.com/ShashankkY/ExpressJS-App#readme",
+  "description": ""
 }
